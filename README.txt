@@ -1,0 +1,1 @@
+1. Installiere 'live-build'. 2. Führe das Build-Skript aus. 3. Schreibe das resultierende ISO mit 'dd' oder 'Ventoy' auf einen USB-Stick. 4. Boote vom Stick und genieße die Geschwindigkeit.
